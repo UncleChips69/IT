@@ -1,0 +1,29 @@
+[
+  {
+    "name": "JACK",
+    "age": 2,
+    "weight": 4,
+    "type": "Cat",
+    "likes": "Scratching sofas"
+  },
+  {
+    "name": "SHIRO",
+    "age": 3,
+    "weight": 18,
+    "type": "Dog",
+    "likes": "Cotton Candy"
+  },
+  { "name": "Shampoo",
+    "age": 6, 
+    "weight":10,
+    "type": "Dog", 
+    "likes": "Laying around" 
+  },
+  { "name": "OGGY", 
+    "age": 4, 
+    "weight":6,
+    "type": "Cat",        
+    "likes": "Playing with Frisbee" 
+  }
+
+]
